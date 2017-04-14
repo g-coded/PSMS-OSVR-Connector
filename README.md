@@ -27,9 +27,9 @@ To specify which controller should be used for which tracker, include this in yo
 
 Where 0, 1, and 2 are the *controller ID* in PSMoveConfig of the controllers you wish to map.
 
-If you want to use just the "/me/head" then remove the two other controller from both Params and Aliases.
+If you want to use just the "/me/head" then remove the two other controller from both Params and Aliases, and vice versa for other configurations.
 
-TODO (priority in order):
+**TODO (priority in order):**
 - Offsets (You can do this with osvr natively I think)
 - Auto-Reconnect to PSMS
 
